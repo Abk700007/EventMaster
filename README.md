@@ -36,8 +36,8 @@ Event Master is a unified platform aimed at revolutionizing the management of co
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/abk700007/EventMangement.git
-    cd EventMangement
+    git clone https://github.com/abk700007/EventMaster.git
+    cd EventMaster
     ```
 
 2. Install dependencies:
