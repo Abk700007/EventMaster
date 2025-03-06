@@ -7,7 +7,6 @@ Event Master is a unified platform aimed at revolutionizing the management of co
 - **Centralized Event Creation & Management**: Create, customize, and schedule events with a user-friendly interface.
 - **Automated Registration & Team Formation**: Seamless registration flow and algorithm-driven team formation.
 - **Real-Time Live Tracking & Leaderboard**: Live score updates and interactive leaderboards.
-- **Integrated Communication System**: Automated notifications through email, SMS, in-app alerts, and push notifications.
 - **Certificate Distribution**: Automated system for generating and distributing certificates.
 
 ## Technical Architecture
